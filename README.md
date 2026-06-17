@@ -1,4 +1,5 @@
 ![open source badge](https://img.shields.io/badge/open_source-%E2%9D%A4%EF%B8%8F-blue) ![AI generated](https://img.shields.io/badge/AI_generated-%E2%98%A3%EF%B8%8F-red)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feremef%2Fbandcamp-player.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Feremef%2Fbandcamp-player?ref=badge_shield)
 
 # Bandcamp Experimental Transport Assistant
 
@@ -284,6 +285,9 @@ Since the application only allows users to stream and cache music they have alre
 ## License
 
 [MIT](LICENSE.txt)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Feremef%2Fbandcamp-player.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Feremef%2Fbandcamp-player?ref=badge_large)
 
 ### Disclaimer
 
